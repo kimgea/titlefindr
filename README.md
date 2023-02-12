@@ -1,4 +1,4 @@
-# [titlefindr](https://titlefindr.com)
+# [Titlefindr](https://titlefindr.com)
 
 This GitHub project is only for issues/tasks for [titlefindr.com](https://titlefindr.com). The code is on a private project. This public page will try to show some overview of what is being done and what might come.
 
